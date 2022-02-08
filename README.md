@@ -36,4 +36,15 @@ In addition to that, GA will be limited to get the many occurrences and attribut
 
 However there are ways to programmatically merge sequential queries to walk around those obstacles.
 
-# 
+# Quesiton may provide insights:
+
+- How many pageviews does our page get?
+  - to understand how the page performing
+  - to see if we can imporve site content or user flow
+  - to get more people to buy our product
+  - to grow business
+
+- What pages are most popular?
+- What channel is driving traffic?
+- How are we doing compared to last year?
+
